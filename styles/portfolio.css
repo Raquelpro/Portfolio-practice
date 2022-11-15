@@ -1,3 +1,14 @@
+h1,
+h2,
+p {
+    color: white;
+}
+
+body {
+    background: linear-gradient(111.1deg, rgb(0, 40, 70) -4.8%, rgb(255, 115, 115) 82.7%, rgb(255, 175, 123) 97.2%)fixed; 
+}
+
+
 h1 {
 font-family: 'Playfair Display', serif;
 font-family: 'Poppins', sans-serif;
@@ -5,7 +16,7 @@ font-size: 43px;
 }
 
 .first {
-    background: #ffe9e3;
+    background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);
     text-align: center;
     padding: 140px 10px;
 }
@@ -28,6 +39,14 @@ font-size: 43px;
     line-height: 27px;
 }
 
-.second {
-    background: #c4c1e0;  
+
+
+.second p {
+    text-align: center;
+    font-size: 15px;
 }
+
+.second {
+    color: white;
+}
+
