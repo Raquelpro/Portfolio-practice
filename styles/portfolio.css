@@ -1,5 +1,6 @@
 h1,
 h2,
+h3,
 p {
     color: white;
 }
@@ -49,3 +50,6 @@ font-size: 43px;
     color: white;
 }
 
+.nav-link {
+    color: white;
+}
